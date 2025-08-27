@@ -1,0 +1,19 @@
+{
+  "name": "clear",
+  "author": "Sisui",
+  "description": "Clear the terminal screen if possible",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "bin": {},
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "ansi",
+    "clear",
+    "terminal"
+  ]
+}
